@@ -3,3 +3,7 @@
 No se hicieron tests, por lo que la cobertura es 0%.
 
 Se implemento la api con un método que recibe tags y token pero no realiza ninguna función por ahora
+
+El gran problema que se tuvo con la tarea fue con Travis, este no reconoció ninguno de los repositorios de mi githube. Al googlearlo me di cuenta de que era un problema relativamente común que ocurre con travis-ci.org (no así con el .com que es para repositorios privados). Se trato de hacer la sincronización por consola pero no funcionó (dice que hay una sincronización en proceso), se buscaron y probaron diversas soluciones, partiendo de nuevo varias veces, pero el problema no pudo ser superado.
+
+El versionamiento en git fue realizado a cabalidad.
