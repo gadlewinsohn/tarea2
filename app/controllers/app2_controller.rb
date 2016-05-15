@@ -5,7 +5,9 @@ class App2Controller < ApplicationController
 		tags = params.require(:tags)
 		token = params.require(:acces_token)
 
-		return
+		
+
+		return 
 	end
 
 
